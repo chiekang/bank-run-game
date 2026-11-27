@@ -138,3 +138,7 @@ body.host #app{display:flex;flex-direction:column;min-height:100vh;padding:12px 
 .codebig{font-size:48px;letter-spacing:8px}
 .ctrl{position:static;background:none;padding:8px 0 0;margin-top:auto}
 @media (min-width:1500px){.stage .title{font-size:54px}.host .news.big{font-size:36px}.qr{width:380px;height:380px}}
+
+.era{display:inline-block;background:#efe3b8;color:#5a4400;border-radius:999px;padding:3px 12px;font-size:13px;font-weight:700;margin:6px 0 2px}
+.era.big{background:transparent;color:var(--gold);padding:0;font-size:24px;display:block}
+.era.big .bi .en,.era.big .bi .zh{display:inline}.era.big .bi .zh{margin-left:12px;font-size:.85em}
