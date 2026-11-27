@@ -142,3 +142,6 @@ body.host #app{display:flex;flex-direction:column;min-height:100vh;padding:12px 
 .era{display:inline-block;background:#efe3b8;color:#5a4400;border-radius:999px;padding:3px 12px;font-size:13px;font-weight:700;margin:6px 0 2px}
 .era.big{background:transparent;color:var(--gold);padding:0;font-size:24px;display:block}
 .era.big .bi .en,.era.big .bi .zh{display:inline}.era.big .bi .zh{margin-left:12px;font-size:.85em}
+
+.rateline{margin-top:8px;font-weight:700;color:#0b6b48}
+.profit{font-size:38px}
