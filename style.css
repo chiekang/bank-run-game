@@ -151,3 +151,8 @@ body.host #app{display:flex;flex-direction:column;min-height:100vh;padding:12px 
 .takeover.big .bi .en,.takeover.big .bi .zh{display:inline}.takeover.big .bi .zh{margin-left:12px}
 .balance{font-weight:700;font-size:16px}
 .split{display:flex;justify-content:space-between;font-size:14px;color:var(--muted);margin-top:8px}
+
+.balance{font-size:20px}
+.profit{font-size:52px}
+.pocket{font-size:13px;font-weight:400;color:var(--muted);margin-top:4px}
+.result .pocket{margin-top:8px}
